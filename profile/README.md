@@ -1,5 +1,4 @@
-# Thorlabs
-## Official Account and Source of Code Samples 
+# Thorlabs ## Official Account and Source of Code Samples 
 
 Welcome!
 ------
