@@ -1,4 +1,5 @@
-# Thorlabs 
+![alt text](https://github.com/Thorlabs/.github/tree/main/profile/Thorlas_Logo_Red.png "Official Thorlabs Logo")
+
 ### Official Account and Source of Code Samples 
 
 Welcome!
