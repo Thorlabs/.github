@@ -1,4 +1,4 @@
-[![alt text](https://www.thorlabs.com/images/newhp/Thorlabs_Logo_Red.png] "Official Thorlabs Logo")(www.Thorlabs.com)
+[![alt text](https://www.thorlabs.com/images/newhp/Thorlabs_Logo_Red.png)](www.Thorlabs.com)
 
 ### Official Account and Source of Code Samples 
 
