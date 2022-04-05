@@ -9,13 +9,13 @@ This collection of code examples is a useful starting point for working with the
 
 * Cameras and Imaging Devices
 * Light Control and Manipulation Devices
-  * e.g. Polarization Controllers and Liquid Crystal Devices    
+  * e.g. [Polarization Controllers](https://www.thorlabs.com/newgrouppage9.cfm?objectgroup_id=12896) and [Liquid Crystal Devices](https://www.thorlabs.com/newgrouppage9.cfm?objectgroup_id=8983)    
 * Lasers and Other Light Source
 * Motion Control Products.
-  * e.g. Motor- and Piezo-Based Controllers 
+  * e.g. [Motor- and Piezo-Based Controllers](https://www.thorlabs.com/navigation.cfm?guide_id=2060)
 * Current and Temperature Control and Monitoring
 * Light Analysis Devices
-  * e.g. Beam Profilers, Wavefront Sensors, and Power Meters 
+  * e.g. [Beam Profilers](https://www.thorlabs.com/newgrouppage9.cfm?objectgroup_id=3483), [Wavefront Sensors](https://www.thorlabs.com/newgrouppage9.cfm?objectgroup_ID=5287), and [Power Meters](https://www.thorlabs.com/navigation.cfm?guide_ID=37) 
 
 
 Each repository includes individual folders for different programming languages, as well as a list of the products compatible with each code example. To help you get the code running on your machine, there is a README at each level of the repositories providing information about the contents, as well as setup instructions. 
