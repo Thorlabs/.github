@@ -9,11 +9,13 @@ This collection of code examples is a useful starting point for working with the
 
 * Cameras and Imaging Devices
 * Light Control and Manipulation Devices
-  * Things and things     
+  * e.g. Polarization Controllers and Liquid Crystal Devices    
 * Lasers and Other Light Source
-* Motion Control Products
+* Motion Control Products.
+  * e.g. Motor- and Piezo-Based Controllers 
 * Current and Temperature Control and Monitoring
 * Light Analysis Devices
+  * e.g. Beam Profilers, Wavefront Sensors, and Power Meters 
 
 
 Each repository includes individual folders for different programming languages, as well as a list of the products compatible with each code example. To help you get the code running on your machine, there is a README at each level of the repositories providing information about the contents, as well as setup instructions. 
