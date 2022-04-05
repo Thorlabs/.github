@@ -1,7 +1,7 @@
 Welcome!
 ------
 
-This collection of code examples is a useful starting point for working with the devices in Thorlabs' product line, as well as implementing the devices in common applications. These code repositories are organized into several categories, according to device type and application:
+This collection of code examples is a useful starting point for working with the devices in Thorlabs' product offering, as well as implementing the devices in common applications. These code repositories are organized into several categories, according to device type and application:
 
 * Cameras and Imaging Devices
 * Light Control and Manipulation Devices
