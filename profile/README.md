@@ -9,6 +9,7 @@ This collection of code examples is a useful starting point for working with the
 
 * Cameras and Imaging Devices
 *  Light Control and Manipulation Devices
+** thigns
 * Lasers and Other Light Source
 * Motion Control Products
 * Current and Temperature Control and Monitoring
