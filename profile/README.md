@@ -19,7 +19,7 @@ This collection of code examples is a useful starting point for working with the
 
 Each repository includes individual folders for different programming languages, as well as a list of the products compatible with each code example. To help you get the code running on your machine, there is a README at each level of the repositories providing information about the contents, as well as setup instructions. 
 
-Visit our [software downloads page](http://www.thorlabs.com/navigation.cfm?guide_id=2191) to download software packages associated with Thorlabs' products.
+Visit the [software downloads page](http://www.thorlabs.com/navigation.cfm?guide_id=2191) to download software packages associated with Thorlabs' products.
 
 ------
 
