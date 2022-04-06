@@ -3,17 +3,17 @@ Welcome!
 
 This collection of code examples is a useful starting point for working with the devices in Thorlabs' product offering, as well as implementing the devices in common applications. These code repositories are organized into several categories, according to device type and application:
 
-* Cameras and Imaging Devices
+* **Cameras and Imaging Devices**
   * e.g. [Compact Scientific Cameras](https://www.thorlabs.com/newgrouppage9.cfm?objectgroup_id=13243) and [Line Sensor Cameras](https://www.thorlabs.com/thorproduct.cfm?partnumber=LC100&pn=LC100)
-* Light Control and Manipulation Devices
+* **Light Control and Manipulation Devices**
   * e.g. [Polarization Controllers](https://www.thorlabs.com/newgrouppage9.cfm?objectgroup_id=12896) and [Liquid Crystal Devices](https://www.thorlabs.com/newgrouppage9.cfm?objectgroup_id=8983)    
-* Lasers and Other Light Sources
+* **Lasers and Other Light Sources**
   * e.g. [K-Cube Light Source](https://www.thorlabs.com/newgrouppage9.cfm?objectgroup_id=2922) and the [4-Channel Fiber-Coupled Laser source](https://www.thorlabs.com/newgrouppage9.cfm?objectgroup_id=3800)
-* Motion Control Products.
+* **Motion Control Products**
   * e.g. [Motor- and Piezo-Based Controllers](https://www.thorlabs.com/navigation.cfm?guide_id=2060)
-* Current and Temperature Control and Monitoring
+* **Current and Temperature Control and Monitoring**
   * e.g. [Benchtop Current Controllers](https://www.thorlabs.com/newgrouppage9.cfm?objectgroup_ID=4053&pn=LDC4005) and [Multichannel Temperature Monitors](https://www.thorlabs.com/newgrouppage9.cfm?objectgroup_id=14285&pn=UPTEMP)
-* Light Analysis Devices
+* **Light Analysis Devices**
   * e.g. [Beam Profilers](https://www.thorlabs.com/newgrouppage9.cfm?objectgroup_id=3483), [Wavefront Sensors](https://www.thorlabs.com/newgrouppage9.cfm?objectgroup_ID=5287), and [Power Meters](https://www.thorlabs.com/navigation.cfm?guide_ID=37) 
 
 
