@@ -23,5 +23,5 @@ Visit the [software downloads page](http://www.thorlabs.com/navigation.cfm?guide
 
 ------
 
-Contact us (techSupport@Thorlabs.com) with questions or comments, and please post details of any concerns or errors you find in these projects to the _Issues_ section of the repository page.
+Contact us (techsupport@thorlabs.com) with questions or comments, and please post details of any concerns or errors you find in these projects to the _Issues_ section of the repository page.
 
